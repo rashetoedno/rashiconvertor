@@ -1,0 +1,173 @@
+/* МЕДИЯ ЗАЯВКИ ЗА МАЛКИ ЕКРАНИ */
+
+@media screen and (max-width: 900px) {
+    body {
+        text-align: center;
+        background-color: rgb(223, 223, 223);
+    }
+
+    header {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(0, 162, 232);
+    }
+
+    .zaglavie {
+        color: rgb(197, 129, 54);
+        font-size: 55px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .zaglavie1 {
+        color: rgb(197, 129, 54);
+        font-size: 42ox;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .euro {
+        display: inline-block;
+        padding: 71px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .bgn {
+        display: inline-block;
+        padding: 71px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    footer {
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 26px;
+        font-style: italic;
+        padding: 2%;
+        font-weight: bold;
+    }
+
+    .converter {
+        padding: 6%;
+    }
+
+    .btn {
+        border-radius: 40px;
+        background-color: rgb(197, 129, 54);
+        color: rgb(255, 255, 255);
+        width: 100%;
+        height: 100%;
+        font-size: 17px;
+        padding: 10px;
+    }
+
+    .btn:hover {
+        color: red;
+    }
+
+    input {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+    input {
+        font-size: 14px;
+    }
+
+    .btn {
+        font-size: 17px;
+    }
+}
+
+
+@media screen and (max-width: 700px) {
+
+    input {
+        font-size: 10px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+
+    input {
+        font-size: 12px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (max-width: 582px) {
+
+    input {
+        font-size: 9px;
+    }
+
+    .btn {
+        font-size: 9px;
+    }
+
+    .euro {
+        display: inline-block;
+        padding: 47px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .bgn {
+        display: inline-block;
+        padding: 47px;
+        border-radius: 20px;
+        color: rgb(197, 129, 54);
+        background-color: rgb(0, 162, 232);
+        text-align: center;
+        font-size: 28px;
+        font-weight: bold;
+        width: 20%;
+        height: 20%;
+    }
+
+    .converter {
+        padding: 4%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    input {
+        font-size: 8px;
+    }
+
+    .btn {
+        font-size: 8px;
+    }
+}

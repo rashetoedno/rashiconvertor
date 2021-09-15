@@ -1,0 +1,136 @@
+body {
+    text-align: center;
+    background-color: rgb(223, 223, 223);
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 162, 232);
+}
+
+.zaglavie {
+    color: rgb(197, 129, 54);
+    font-size: 59px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.zaglavie1 {
+    color: rgb(197, 129, 54);
+    font-size: 49ox;
+    text-align: center;
+    font-weight: bold;
+}
+
+.euro {
+    display: inline-block;
+    padding: 71px;
+    border-radius: 20px;
+    color: rgb(197, 129, 54);
+    background-color: rgb(0, 162, 232);
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    width: 20%;
+    height: 20%;
+}
+
+.bgn {
+    display: inline-block;
+    padding: 71px;
+    border-radius: 20px;
+    color: rgb(197, 129, 54);
+    background-color: rgb(0, 162, 232);
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    width: 20%;
+    height: 20%;
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 162, 232);
+    text-align: center;
+    font-size: 26px;
+    font-style: italic;
+    padding: 2%;
+    font-weight: bold;
+}
+
+.converter {
+    padding: 6%;
+}
+
+.btn {
+    border-radius: 40px;
+    background-color: rgb(197, 129, 54);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100%;
+    font-size: 21px;
+    padding: 10px;
+}
+
+.btn:hover {
+    color: red;
+}
+
+input {
+    font-size: 16px;
+}
+
+.vsbuttonob {
+    width: 100%;
+    height: 100%;
+}
+
+.buttonob {
+    padding: 6%;
+    width: 80%;
+    height: 80%;
+    float: left;
+}
+
+.button {
+    width: 100%;
+    height: 100%;
+    float: left;
+    color: rgb(255, 255, 255);
+    background-color: rgb(197, 129, 54);
+    border-radius: 90px;
+    border: 8px solid rgb(197, 129, 54);
+}
+
+#btsn {
+    width: 88%;
+    height: 88%;
+    color: rgb(255, 255, 255);
+    border-radius: 90px;
+
+}
+
+.atr {
+    text-decoration: none;
+    font-size: 46px;
+    padding: 32px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(197, 129, 54);
+    text-align: center;
+    border-radius: 38px;
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+
+.atr:hover {
+    color: red;
+    background-color: rgb(197, 129, 54);
+    text-decoration: none;
+}
+
+#atrsn {
+    width: 90%;
+    height: 90%;
+}
